@@ -3,8 +3,8 @@ Parody of BookofDead slot. Made fully on SwiftUI. Also it has different bet amou
 
 Gameplay:
 
-![Alt Text](https://gph.is/g/aeWWMw5)
+![Alt Text](https://media.giphy.com/media/UX6E03wfueu5UiVP7p/giphy.gif)
 
 Bonus Game: 
 
-![Alt Text](https://gph.is/g/aRVVRrO)
+![Alt Text](https://media.giphy.com/media/EMkMarNztCeGPNxLSh/giphy.gif)
